@@ -1,0 +1,31 @@
+{
+	"exam" : {
+	    "id":"math-3",
+	    "title": "Matematik 3 Sinavi",
+	    "questions":
+		[
+	{
+	       "number": "1",
+	       "body":"2 kere 2?",
+	       "options": 
+		   [
+	           {"code": "A", "text":"1"},
+	           {"code": "B", "text":"2"},
+               {"code": "C", "text":"3"},
+               {"code": "D", "text":"4"}
+	        ]
+	},
+	{
+	        "number":"2",
+            "body":"Aşağıdakılardan hansı prgramlaşdırma dili deyil",
+	        "options":
+			[
+	           {"code":"A", "text":"Java"},
+	           {"code":"B", "text":"HTML"},
+	           {"code":"C", "text":".NET"},
+	           {"code":"D", "text":"C#"}
+	        ]
+	}
+	    ]
+}	
+}
